@@ -1,0 +1,27 @@
+@media (min-width:992px) {
+  header.masthead {
+    height: 75vh;
+    min-height: 650px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+a:hover {
+  color: #1909d0;
+  text-decoration: underline;
+}
+
+a, a:hover {
+  color: #090687;
+}
+
+.btn-primary {
+  background-color: #3a10b1;
+  border-color: #f05f40;
+}
+
+.card-body {
+  display: inline-block;
+}
+
